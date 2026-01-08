@@ -17,7 +17,7 @@ Wan Hayatun Nisa (Universitas Syiah Kuala), [Kahlil Muchtar (Universitas Syiah K
 </div><br>
 
 <p align="center">
-  <img style="width: 70%" src="Media/Fig 1.jpg">
+  <img style="width: 60%" src="Media/Fig 1.jpg">
 </p>
 
 <small>_Fig. 1. Proposed Research Flowchart._</small>
@@ -149,7 +149,7 @@ Make sure the trained model files is located in the correct directory.
 <br>
 
 <p align="center">
-  <img style="width: 60%" src="Media/Fig 2.jpg">
+  <img style="width: 55%" src="Media/Fig 2.jpg">
 </p>
 
 <small>_Fig. 2. Bar chart comparison of Evaluation metrics(accuracy, recall, specificity, and F1-score)._</small>
